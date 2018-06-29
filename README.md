@@ -1,2 +1,0 @@
-# treinamentogit
-projeto
